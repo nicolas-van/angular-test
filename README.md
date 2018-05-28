@@ -1,5 +1,7 @@
 # AngularTest
 
+[![Build Status](https://travis-ci.org/nicolas-van/angular-test.svg?branch=master)](https://travis-ci.org/nicolas-van/angular-test)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
 ## Development server
